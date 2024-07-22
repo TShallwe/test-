@@ -1,0 +1,11 @@
+Namespace(add_manual_edges=False, batchsize=16, cpu=8, data_path='data/icews14/', epoch=200, fact_ratio=0.95, gpu=0, layer=6, n_batch=16, n_tbatch=16, not_shuffle_train=False, only_eval=False, perf_file='results/icews14/2024-06-26-18:33:23.txt', remove_1hop_edges=False, seed=1234, topk=0.1, topm=-1, val_num=-1, weight='')[VALID] MRR:0.3466 H@1:0.2498 H@10:0.5384	 [TEST] MRR:0.3268 H@1:0.2290 H@10:0.5231 	[TIME] train:48.4867 inference:538.9707
+[VALID] MRR:0.4181 H@1:0.3326 H@10:0.5793	 [TEST] MRR:0.4019 H@1:0.3108 H@10:0.5756 	[TIME] train:619.3443 inference:538.9483
+[VALID] MRR:0.4372 H@1:0.3561 H@10:0.5910	 [TEST] MRR:0.4225 H@1:0.3356 H@10:0.5880 	[TIME] train:1165.2225 inference:540.2177
+[VALID] MRR:0.4425 H@1:0.3614 H@10:0.5929	 [TEST] MRR:0.4322 H@1:0.3470 H@10:0.5912 	[TIME] train:1716.1626 inference:542.7004
+[VALID] MRR:0.4542 H@1:0.3773 H@10:0.5976	 [TEST] MRR:0.4444 H@1:0.3627 H@10:0.5974 	[TIME] train:2264.0791 inference:20691.6050
+[VALID] MRR:0.4636 H@1:0.3901 H@10:0.6020	 [TEST] MRR:0.4554 H@1:0.3763 H@10:0.6026 	[TIME] train:2806.7777 inference:545.7951
+[VALID] MRR:0.4665 H@1:0.3929 H@10:0.6043	 [TEST] MRR:0.4612 H@1:0.3827 H@10:0.6059 	[TIME] train:3355.9166 inference:542.3770
+[VALID] MRR:0.4754 H@1:0.4051 H@10:0.6076	 [TEST] MRR:0.4662 H@1:0.3880 H@10:0.6083 	[TIME] train:3900.8639 inference:553.7498
+[VALID] MRR:0.4781 H@1:0.4081 H@10:0.6107	 [TEST] MRR:0.4694 H@1:0.3918 H@10:0.6126 	[TIME] train:4462.4473 inference:574.2050
+[VALID] MRR:0.4802 H@1:0.4115 H@10:0.6096	 [TEST] MRR:0.4747 H@1:0.4000 H@10:0.6134 	[TIME] train:5009.2808 inference:539.9159
+[VALID] MRR:0.4852 H@1:0.4173 H@10:0.6117	 [TEST] MRR:0.4777 H@1:0.4041 H@10:0.6141 	[TIME] train:5558.0586 inference:543.1273

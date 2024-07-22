@@ -1,0 +1,1 @@
+Namespace(add_manual_edges=False, batchsize=16, cpu=8, data_path='data/icews14/', epoch=200, fact_ratio=0.95, gpu=2, layer=6, n_batch=16, n_tbatch=16, not_shuffle_train=False, only_eval=True, perf_file='results/icews14/2024-06-26-18:45:17.txt', remove_1hop_edges=False, seed=1234, topk=0.1, topm=-1, val_num=-1, weight='./data/icews14/saveModel/topk_0.1_layer_8_ValMRR_0.640.pt')

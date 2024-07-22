@@ -1,0 +1,5 @@
+Namespace(add_manual_edges=False, batchsize=16, cpu=8, data_path='data/icews14/', epoch=200, fact_ratio=0.95, gpu=1, layer=6, n_batch=16, n_tbatch=16, not_shuffle_train=False, only_eval=False, perf_file='results/icews14/2024-06-29-19:55:52.txt', remove_1hop_edges=False, seed=1234, topk=0.1, topm=-1, val_num=-1, weight='')[VALID] MRR:0.0604 H@1:0.0000 H@10:0.1681	 [TEST] MRR:-1.0000 H@1:-1.0000 H@10:-1.0000 	[TIME] train:50.6459 inference:231.4142
+[VALID] MRR:0.0790 H@1:0.0000 H@10:0.2378	 [TEST] MRR:-1.0000 H@1:-1.0000 H@10:-1.0000 	[TIME] train:543.3209 inference:233.0897
+[VALID] MRR:0.0583 H@1:0.0000 H@10:0.1568	 [TEST] MRR:-1.0000 H@1:-1.0000 H@10:-1.0000 	[TIME] train:1039.4535 inference:231.2057
+[VALID] MRR:0.2213 H@1:0.0957 H@10:0.4475	 [TEST] MRR:-1.0000 H@1:-1.0000 H@10:-1.0000 	[TIME] train:1539.9314 inference:243.1687
+[VALID] MRR:0.3350 H@1:0.2173 H@10:0.5374	 [TEST] MRR:-1.0000 H@1:-1.0000 H@10:-1.0000 	[TIME] train:2037.4525 inference:250.4064
